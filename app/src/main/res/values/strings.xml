@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ELC4</string>
+
+    <string name="titleRes_projectList">PROJECT LIST</string>
+    <string name="titleRes_projectCreate">CREATE NEW PROJECT</string>
+    <string name="titleRes_mainPanel">MAIN PANEL</string>
+    <string name="titleRes_creationSelection">CREATION SELECTION</string>
+    <string name="titleRes_branchCircuitCreate">CREATE NEW BRANCH CIRCUIT</string>
+    <string name="titleRes_branchCircuitDetail">BRANCH CIRCUIT TITLE DETAIL</string>
+    <string name="titleRes_subFeederCreate">CREATE NEW SUB-FEEDER</string>
+    <string name="titleRes_FeederCreate">CREATE NEW FEEDER</string>
+
+    <string name="conDes_projectCreate">Add New Project</string>
+    <string name="conDes_mainPanelCreate">Add New Branch Circuit</string>
+
+    <string name="back_action">Back</string>
+
+    <string name="desc_projectList_empty">*You have no existing Project/s.*</string>
+    <string name="desc_projectCreate_sample">*Project Create Screen Sample Text*</string>
+    <string name="desc_mainPanel_sample">*Main Panel Screen Sample Text*</string>
+    <string name="desc_creationExample_sample">*Creation Selection Screen Sample Text*</string>
+    <string name="desc_branchCircuitCreate_sample">*Branch Circuit Create Screen Sample Text*</string>
+    <string name="desc_branchCircuitDetail_sample">*Branch Circuit Detail Screen Sample Text*</string>
+    <string name="desc_subFeederCreate_sample">*Sub-Feeder Create Screen Sample Text*</string>
+    <string name="desc_FeederCreate_sample">*Feeder Create Screen Sample Text*</string>
+</resources>
